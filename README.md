@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/mukesh-a-980076244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mukesh-a-980076244" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukesh-a-980076244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mukesh-a-980076244" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mukeshofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mukeshofficial" height="30" width="40" /></a>
 </p>
 
