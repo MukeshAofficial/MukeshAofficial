@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mukesh A</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
 
+Hi! I'm Mukesh A, a passionate Engineering student from India, currently in my pre-final year specializing in Artificial Intelligence and Data Science. I'm actively building projects that blend the power of AI and Generative Models to solve real-world problems. Currently, I'm working as an AI Intern at BuildFastWithAI, where I’m helping create impactful AI solutions.
+
+🌟 GenAI Projects:
+AI-powered Customer Support: Developed a RAG (Retrieval-Augmented Generation) system integrated with Twilio to provide real-time voice call and text-based customer support, I built a powerful web-based chatbot with voice-to-voice interactions. The solution supports real-time voice calls and offers an embeddable chatbot widget, providing seamless customer support with AI-driven responses!
+
+Vision Guide:
+I created a Vision Guide app for visually impaired individuals, utilizing Gemini Live API for real-time object recognition and guidance. This project helps users navigate their surroundings with AI-powered assistance, ensuring greater independence and safety for the visually impaired community.
+
+🏆 10x Hackathon Winner
+💡 Passionate about exploring the latest Generative AI tools and technologies
+🌍 Focused on developing real-world applications for AI that improve accessibility and user experience
+
 - 📫 How to reach me **mukeshofficial685@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,5 +30,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MukeshAofficial&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshAofficial&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
