@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **mukeshofficial685@gmail.com**
+- 📫 How to reach me mukeshofficial685@gmail.com
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mukesh-a-980076244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mukesh-a-980076244" height="30" width="40" /></a>
