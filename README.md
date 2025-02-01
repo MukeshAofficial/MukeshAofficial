@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukesh A</h1>
-<h3 align="center">A passionate Engineering student from India</h3>
 
-<p>Hi! I'm Mukesh A, a passionate Engineering student from India, currently in my pre-final year specializing in Artificial Intelligence and Data Science. I'm actively building projects that blend the power of AI and Generative Models to solve real-world problems. Currently, I'm working as an AI Intern at BuildFastWithAI, where I’m helping create impactful AI solutions.</p>
+<p> A passionate Engineering student from India, currently in my pre-final year specializing in Artificial Intelligence and Data Science. I'm actively building projects that blend the power of AI and Generative Models to solve real-world problems. Currently, I'm working as an AI Intern at BuildFastWithAI, where I’m helping create impactful AI solutions.</p>
 
 <h3>🌟 GenAI Projects:</h3>
 <ul>
