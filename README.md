@@ -14,48 +14,16 @@
 
 ## 🚀 About Me
 
-<p align="center">I'm a Generative AI Engineer who loves building smart software with LLMs, AI Agents, and modern web tools.<br>I enjoy creating AI apps, automating workflows, and shipping full-stack products that solve real problems.</p>
+I'm a Generative AI Engineer who loves building smart software with LLMs, AI Agents, and modern web tools. I enjoy creating AI apps, automating workflows, and shipping full-stack products that solve real problems.
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🤖
-**Generative AI, Agentic AI & Multi-Agent Systems**
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🧠
-**LLMs, RAG & MCP for real, useful AI tools**
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 💻
-**Designing & shipping production-ready full-stack apps**
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🌱
-**Always learning new AI tools & cloud tech**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ⚡
-**I learn best by building real projects**
-
-</td>
-</tr>
-</table>
+- 🤖 I build with Generative AI, Agentic AI, and Multi-Agent Systems
+- 🧠 I work with LLMs, RAG, and MCP to create useful AI tools
+- 💻 I design and ship production-ready full-stack apps
+- 🌱 I keep learning new AI tools and cloud tech
+- ⚡ I learn best by building real projects
 
 <br>
+
 
 ## 💼 Experience
 
