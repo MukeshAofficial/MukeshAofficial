@@ -14,27 +14,79 @@
 
 ## 🚀 About Me
 
-I'm a Generative AI Engineer who loves building smart software with LLMs, AI Agents, and modern web tools. I enjoy creating AI apps, automating workflows, and shipping full-stack products that solve real problems.
+<p align="center">I'm a Generative AI Engineer who loves building smart software with LLMs, AI Agents, and modern web tools.<br>I enjoy creating AI apps, automating workflows, and shipping full-stack products that solve real problems.</p>
 
-- 🤖 I build with Generative AI, Agentic AI, and Multi-Agent Systems
-- 🧠 I work with LLMs, RAG, and MCP to create useful AI tools
-- 💻 I design and ship production-ready full-stack apps
-- 🌱 I keep learning new AI tools and cloud tech
-- ⚡ I learn best by building real projects
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🤖
+**Generative AI, Agentic AI & Multi-Agent Systems**
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🧠
+**LLMs, RAG & MCP for real, useful AI tools**
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 💻
+**Designing & shipping production-ready full-stack apps**
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🌱
+**Always learning new AI tools & cloud tech**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### ⚡
+**I learn best by building real projects**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 💼 Experience
 
-**Programmer Analyst Trainee** — Cognizant, Chennai, India
-- Completed enterprise training in networking, cloud, automation scripting, and GenAI fundamentals
-- Applied concepts through hands-on labs across enterprise technologies
-- Gained real exposure to enterprise development and automation workflows
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**AI Research & Developer Intern** — BuildFastWithAI, Remote, India
-- Explored 100+ AI libraries in 100 days, publishing daily Colab notebooks
-- Built proof-of-concept apps using Python and Streamlit
-- Added features, docs, and AI apps to an open-source GenAI library
+<img src="https://img.shields.io/badge/Cognizant-0033A0?style=for-the-badge&logo=cognizant&logoColor=white"/>
+
+### 🏢 Programmer Analyst Trainee
+📍 Chennai, India
+
+- 🌐 Completed enterprise training in networking, cloud, automation scripting, and GenAI fundamentals
+- 🧪 Applied concepts through hands-on labs across enterprise technologies
+- ⚙️ Gained real exposure to enterprise development and automation workflows
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/BuildFastWithAI-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+### 🤖 AI Research & Developer Intern
+📍 Remote, India
+
+- 📚 Explored 100+ AI libraries in 100 days, publishing daily Colab notebooks
+- 🧩 Built proof-of-concept apps using Python and Streamlit
+- 🌍 Added features, docs, and AI apps to an open-source GenAI library
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -113,6 +165,7 @@ I'm a Generative AI Engineer who loves building smart software with LLMs, AI Age
 <br>
 
 <!-- Contribution Snake -->
+<!-- This image will only appear after you add the snake.yml GitHub Action (see setup note below) -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/MukeshAofficial/MukeshAofficial/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
