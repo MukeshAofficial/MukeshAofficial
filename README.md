@@ -135,7 +135,6 @@ I'm a Generative AI Engineer who loves building smart software with LLMs, AI Age
 <!-- Contribution Snake -->
 <!-- This image will only appear after you add the snake.yml GitHub Action (see setup note below) -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/MukeshAofficial/MukeshAofficial/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <!-- Profile Views -->
